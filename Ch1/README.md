@@ -23,6 +23,8 @@
 - cl.exe compiler was not working
 - MinGW seems to work with example code at https://code.visualstudio.com/docs/cpp/config-mingw
 #### GCC
+- I had better success with using the WSL-Debian-CLI tools
+
 ### Notes
 - I cannot find 'std'
 - cppreference says std::cout comes from iostream, so why does he say to "import std" 
